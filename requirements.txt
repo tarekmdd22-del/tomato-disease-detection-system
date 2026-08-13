@@ -1,0 +1,10 @@
+tensorflow
+numpy
+pillow
+scikit-learn
+matplotlib
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+streamlit

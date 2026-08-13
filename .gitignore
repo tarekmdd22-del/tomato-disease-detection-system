@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/train/
+data/val/
+data/test/
+.DS_Store
+
+# NOTE: models/*.keras and outputs/*.json are intentionally NOT ignored -
+# the assignment requires the trained model to be included in the repo.
