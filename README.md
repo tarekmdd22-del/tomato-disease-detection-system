@@ -251,7 +251,7 @@ After training on your full dataset, report here (numbers auto-saved to
 | Metric | Value |
 |---|---|
 | Validation Accuracy | 87.70 %|
-| Validation Loss | 0.34|
+| Validation Loss | 0.34 %|
 
 Include the per-class precision/recall/F1 table and a confusion matrix
 plot/screenshot, and a short discussion of which diseases are hardest to
